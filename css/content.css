@@ -1,0 +1,51 @@
+.my-blog-section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:85%;
+    margin-right:2rem;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    background-color: #bbb9ba;
+    border-radius: 2rem;
+
+}
+
+.blog
+{
+margin-left:2rem;
+}
+.my-blog-section p
+{
+margin-bottom:1rem;
+}
+
+
+.my-blog-section img
+{
+    float: right;
+    width: 50%;
+    height: 15rem;
+    margin:1rem;
+}
+
+.my-projects
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius:2rem ;
+
+}
+
+.my-projects
+{
+    background-color: #ffe8ef;
+    width: 85%;
+    margin-bottom:2rem;
+}
+.my-projects div
+{
+    margin-left:2rem;
+}
